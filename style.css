@@ -2,6 +2,10 @@ body {
 	margin: 0px;
 }
 
+h1 {
+	font-weight: lighter;
+}
+
 #img {
 	height: 80px;
 	width: 80px;
